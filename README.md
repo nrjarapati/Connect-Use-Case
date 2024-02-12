@@ -55,6 +55,9 @@ This GitHub repository showcases a comprehensive demonstration of an AWS Connect
 - **Predefined Attributes for Skill-Based Routing:**
   Implement predefined attributes to enhance skill-based routing, ensuring efficient assignment of calls to agents with the most relevant expertise.
 
+- **Disaster Recovery/Resiliency**
+  Cross region replication could be enabled for achieving high resiliency
+
 # Out of Scope
 
 - **Custom UI/UX Features:**
