@@ -35,6 +35,9 @@ This GitHub repository showcases a comprehensive demonstration of an AWS Connect
 - **QuickConnects via AWS Connect Console:**
   Easily set up and manage QuickConnects for streamlined customer interactions via the AWS Connect Console.
 
+# Flow diagram
+- ![Image Alt Text](src/resources/Flow-diagram-AWS-Connect-Cloud-contact-center.png)
+
 # Assumptions
 
 - The AWS account used for the demo has the necessary permissions to execute Lambda functions and access DynamoDB.
