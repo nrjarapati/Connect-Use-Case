@@ -62,3 +62,6 @@ This GitHub repository showcases a comprehensive demonstration of an AWS Connect
 
 - **Custom UI/UX Features:**
   Highly customized UI/UX features are considered out of scope for the current version.
+
+- **Video, Chat channels:**
+  Implementation of video, chat channels is not included in the current version.
