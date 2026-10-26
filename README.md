@@ -4,6 +4,7 @@
 This GitHub repository showcases a comprehensive demonstration of an AWS Connect Center solution, designed to optimize customer interactions and enhance overall satisfaction. The solution addresses various customer use cases, including interactions with unregistered customers, registered customers seeking upgrades, and those with different subscription plans.
 
 
+
 # Key Features
 
 - **Use Cases Covered:**
